@@ -1,0 +1,2 @@
+# Pretrained_gensim_word2vec
+基于gensim的预训练word2vec词向量
